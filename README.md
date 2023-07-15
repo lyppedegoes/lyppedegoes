@@ -10,9 +10,7 @@ Estou em processo de transição de carreira para o mundo da tecnologia, com foc
 I am in the process of transitioning my career to the technology field, specifically focusing on Front End. I am excited about the opportunities to work on challenging projects where I can apply my acquired skills and creativity. My previous experience in graphic design and video editing will be a valuable asset in this new journey, and I am thrilled to continue growing and evolving as a professional in this dynamic field.
 </p>
 
-<p style="position: relative; z-index: 1;"  align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=3c6ad4&lines=Hello World!;I+accept+the+challenge!" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&vCenter=true&width=350&lines=Hello+World!;I+accept+the+challenge!)](https://git.io/typing-svg)
 
 <p style="position: relative; z-index: 1;"  align="left">
   <a href="mailto:felipe.dgoes@gmail.com">
@@ -21,7 +19,7 @@ I am in the process of transitioning my career to the technology field, specific
   <a href="https://www.linkedin.com/in/felipedegoes/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/felipedegoes/" target="_blank">
+  <a href="https://wa.me/5541992644894/" target="_blank">
     <img src="https://img.shields.io/badge/Whatsapp-25d366?&style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -73,7 +71,7 @@ I am in the process of transitioning my career to the technology field, specific
 
 <br>  
 
-## &#128202; GitHub Profile Stats
+## 👷🏼‍♂️ GitHub Profile Stats
 
 <p align="left">
   <img alt="ananuness' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyppedegoes&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=9d5dd9&hide=Jupyter%20Notebook" height="192px"/>
